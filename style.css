@@ -1,0 +1,33 @@
+div {
+    width: 400px;
+    background-color: rgb(220, 220, 240);
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+}
+#div1 p {
+    text-align: center;
+}
+#div1 {
+    margin: 0px 0px 10px 0px;
+}
+#div1 p {
+    margin: 5px;
+}
+button {
+    background-color: white;
+    border: 2px solid black;
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    margin: 20px;
+}
+#visszaig span {
+    background-color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
+#div2 p { 
+    margin: 0px;
+    padding: 0px;
+}
